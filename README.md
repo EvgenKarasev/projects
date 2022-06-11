@@ -152,5 +152,5 @@
 
 **Инструменты, библиотеки – SQL, PostgreSQL**
 
-**Ссыкла на репозиторий** – https://github.com/EvgenKarasev/projects/tree/main/analysis-of-user-behavior-in-a-mobile-application
+**Ссыкла на репозиторий** – [https://github.com/EvgenKarasev/projects/tree/main/analysis-of-user-behavior-in-a-mobile-application](https://github.com/EvgenKarasev/projects/tree/main/study_of_data_SQL_on_investment_of_venture_funds_in_start_up_companies)
 
