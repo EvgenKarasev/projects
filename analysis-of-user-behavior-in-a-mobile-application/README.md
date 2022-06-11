@@ -8,5 +8,3 @@
 **Технологии** - A/B-тестирование, событийная аналитика, продуктовые метрики, проверка статистических гипотез, визуализация данных, предобработка данных.
 
 **Инструменты, библиотеки – Jupyter, Python, Pandas, numpy, seaborn, matplotlib, scipy, plotly, math, datetime, warnings**
-
-**Ссыкла на репозиторий** – https://github.com/EvgenKarasev/projects/tree/main/analysis-of-user-behavior-in-a-mobile-application
