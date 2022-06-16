@@ -14,3 +14,5 @@
 **Инструменты, библиотеки – Tableau, Jupyter, PowerPoint, Python, Pandas, SQLalchemy**
 
 **Ссылка на дашборд в Tableau** - https://public.tableau.com/views/Project8_16538137464770/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+**Cтатус проекта - закончен**.
